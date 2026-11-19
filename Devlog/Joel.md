@@ -8,3 +8,9 @@ Learned: (whatever you learned — or "nothing new today," which is fine)
 Next: hello world running in my stack
 Blocked: nothing
 ----------------------------------------------------------
+## 2026-11-19 · Thurs
+State: Welcome page and Mission page exists
+Did: Created the mission page and adding content
+Learned: nothing new today
+Next: Mission page complete, moving onto donations page
+Blocked: nothing

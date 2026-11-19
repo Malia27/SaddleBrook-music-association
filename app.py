@@ -6,5 +6,9 @@ app = Flask(__name__)
 def home():
     return render_template("base.html")
 
+@app.route("/mission")
+def mission():
+    return render_template("mission.html")
+
 if __name__ == "__main__":
     app.run(debug=True)
