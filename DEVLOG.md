@@ -1,10 +1,10 @@
 ----------------------------------------------------------
 # Dev Log — Saddle Brook Music Association
 
-## 2026-11-09 · Mon
-State: repo exists, nothing built
-Did: created the repo, gitignore, README, invited the teacher.
-Learned: (whatever you learned — or "nothing new today," which is fine)
-Next: hello world running in my stack
+## 2026-11-17 · Tue
+State: App is running
+Did: created the send inquiry route, create a simple bare bone form
+Learned: nothing new today
+Next: Create a database to store form answers
 Blocked: nothing
 ----------------------------------------------------------
